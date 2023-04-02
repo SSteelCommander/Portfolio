@@ -1,0 +1,21 @@
+
+
+  /* Style for the header */
+  header {
+    background-color: #333; /* set background color */
+    color: #fff; /* set text color */
+    padding: 20px; /* add padding */
+  }
+  
+  /* Style for theimage */
+  header img {
+    width: 100px; /* set image width */
+    height: auto; /* set image height to maintain aspect ratio */
+    float: left; /* float the image to the left */
+  }
+  
+  /* Style for the header text */
+  header h1 {
+    margin: 0; /* remove default margin */
+    font-size: 30px; /* set font size */
+  }
